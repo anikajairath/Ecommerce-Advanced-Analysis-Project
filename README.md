@@ -1,3 +1,5 @@
+⭐ Key Project for Data Analyst Portfolio
+
 # Advanced E-Commerce Analytics (Customer Segmentation & Forecasting)
 
 # Overview
