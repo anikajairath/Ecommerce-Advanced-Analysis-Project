@@ -47,5 +47,3 @@ This project helps businesses identify high-value customers, improve retention s
 # Dashboard
 
 Power BI dashboard visualizing customer segments, revenue trends, retention analysis, and product performance.
-
-Power BI dashboard visualizing customer segments, revenue trends, retention analysis, and product performance.
