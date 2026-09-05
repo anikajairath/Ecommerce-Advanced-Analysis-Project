@@ -1,6 +1,6 @@
 ⭐ Key Project for Data Analyst Portfolio
 
-# Advanced E-Commerce Analytics (Customer Segmentation & Forecasting)
+# Ecommerce Customer Sales Analytics (Customer Segmentation & Forecasting)
 
 # Overview
 
